@@ -1,0 +1,17 @@
+body{
+  font:20px Arial, sans-serif;
+}
+.navbar{
+  background-color: #688;
+}
+
+.quem-somos{
+  background-color: rgb(88, 88, 145);
+  color: white;
+ 
+}
+
+.margin{
+  
+  padding-bottom: 50px;
+}
